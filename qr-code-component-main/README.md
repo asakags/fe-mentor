@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/asakags/fe-mentor)
+- Solution URL: [GitHub](https://github.com/asakags/fe-mentor/qr-code-component-main)
 
 ## Author
 
